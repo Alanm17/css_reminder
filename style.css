@@ -93,3 +93,28 @@ ul a {
 footer{
   font-size:12px;
 }
+
+/* Floats */
+
+.author-img{
+  float:left;
+  /* margin-top:20px; */
+  margin-bottom:20px;
+}
+.author{
+  float:left;
+   margin-top:10px;
+  margin-left:20px;
+
+}
+.h1{
+  /* display: block; */
+  float: left;
+}
+nav a{
+  /* display:inline-block; */
+}
+.nav{
+  /* display: block; */
+  float:right;
+}
