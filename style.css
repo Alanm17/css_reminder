@@ -279,6 +279,16 @@ nav{
   margin-right:40px;
   margin-top:20px;
 }
-.clear{
+/* .clear{
   clear:both;
+} */
+.clearfix::after{
+  clear:both;
+  content:'Mukhammadaziz';
+  font-style:italic;
+  font-weight:normal;
+  color:#1098ad;
+  display : block;
+  transform: translate(34%, 100%);
+  font-size: 30px;
 }
