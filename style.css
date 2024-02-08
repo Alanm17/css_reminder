@@ -289,6 +289,8 @@ nav{
   font-weight:normal;
   color:#1098ad;
   display : block;
-  transform: translate(34%, 100%);
+  transform: translate(220%, 200%);
+  background: linear-gradient(to right, #d1f1f6,#ffff);
+  width:34%;
   font-size: 30px;
 }
