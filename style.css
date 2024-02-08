@@ -269,3 +269,16 @@ h1{
 nav{
   float:right;
 }
+.author-img{
+  float:left;
+  padding:5px;
+
+}
+.author{
+  float:left;
+  margin-right:40px;
+  margin-top:20px;
+}
+.clear{
+  clear:both;
+}
