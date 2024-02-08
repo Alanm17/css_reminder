@@ -2,6 +2,7 @@
   /* border-top: 10px solid #1098ad; */
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   /* background-color: antiquewhite; */
 }
 
@@ -55,7 +56,7 @@ aside {
   border-bottom: 5px solid #1098ad;
   /* padding-top: 50px;
   padding-bottom: 50px; */
-  padding: 50px 0;
+  padding: 50px 30px;
   width: 500px;
 }
 
@@ -87,6 +88,7 @@ h4 {
   font-size: 20px;
   text-transform: uppercase;
   text-align: center;
+  margin-bottom: 30px;
 }
 
 p {
@@ -139,6 +141,7 @@ li:last-child {
 
 .related {
   list-style: none;
+  margin-left:0;
 }
 
 
@@ -303,9 +306,9 @@ aside{
   float:right;
   /* transform: translate(310%, -280%); */
   width:300px;
-  border-radius: 15px;
+  border-radius: 8px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  /* padding:-60px; */
+  /* box-sizing: border-box; */
 }
 article{
   width:825px;
